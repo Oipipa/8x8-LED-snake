@@ -124,14 +124,3 @@ Provides a millisecond delay using the microcontroller's delay functions.
 4. Use the push buttons to control the snake's direction.
 5. The game will handle snake movement, food generation, and collisions.
 6. When a collision occurs, the game will reset and start over.
-
-## Troubleshooting
-
-- Ensure all connections are secure and correct.
-- Verify the power supply voltage is appropriate for the PIC microcontroller.
-- Check the button connections and ensure they are functioning correctly.
-- If the LED matrix does not display correctly, verify the connections to PORTB and PORTD.
-
-## Conclusion
-
-This project demonstrates a simple implementation of a Snake game using a PIC microcontroller, an 8x8 LED matrix, and push buttons. It covers fundamental concepts such as I/O port configuration, matrix display control, and basic game logic.
